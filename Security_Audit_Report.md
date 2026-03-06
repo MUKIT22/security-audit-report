@@ -170,7 +170,7 @@ Checks performed:
 | `xmlrpc.php` status | ⚠️ FLAGGED | Returns non-standard response (similar to Site 2) |
 | `robots.txt` wp-admin rule | ✅ PASS | `Disallow: /wp-admin/` for bots |
 | Login attempt limitation | ✅ PASS | Blocks multiple login attempts|
-| CAPTCHA on forms | ⚠️ PARTIAL | CAPTCHA not confirmed on Contact form|
+| CAPTCHA on forms | ✅ PASS  | CAPTCHA seems present|
 
 ## Findings
 
